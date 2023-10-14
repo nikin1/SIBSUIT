@@ -1,0 +1,3 @@
+[submodule "architecture/mysimplecomputer"]
+	path = architecture/mysimplecomputer
+	url = https://github.com/nikin1/SIBSUIT
